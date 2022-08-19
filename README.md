@@ -1,4 +1,4 @@
-# BellyButton
+# BellyButton Diversity and Cleanliness
 ## Overview
 As part of the project from Roza and in an effort to visualize the data, a static webpage was created with 3 different graph types. 
 ## Deliverable 1
